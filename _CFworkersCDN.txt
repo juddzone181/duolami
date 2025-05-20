@@ -35,3 +35,4 @@
   cdn-b100.xn--b6gac.eu.org
   xn--b6gac.eu.org
   edgetunnel.anycast.eu.org
+   my-telegram-is-herocore.onecf.eu.org
